@@ -2,7 +2,7 @@
   "icons": [
     {
       "name": "detailed lineal color",
-      "source": "DLC",
+      "source": "DLC_",
       "extension": "png",
       "count": 7,
       "author": "Freepik",
@@ -11,7 +11,7 @@
     
     {
       "name": "kawaii lineal color",
-      "source": "KLC",
+      "source": "KLC_",
       "extension": "png",
       "count": 38,
       "author": "Freepik",
@@ -20,7 +20,7 @@
 
     {
       "name": "lineal outline pink",
-      "source": "LOP",
+      "source": "LOP_",
       "extension": "png",
       "count": 10,
       "author": "Freepik",
@@ -29,43 +29,11 @@
 
     {
       "name": "special lineal color",
-      "source": "SLC",
+      "source": "SLC_",
       "extension": "png",
       "count": 16,
       "author": "Freepik",
       "authorURL": "https://www.flaticon.com/authors/freepik"
-    },
-    {
-        "name": "For Creators",
-        "source": "FC",
-        "extension": "png",
-        "count": 23,
-        "author": "Minhee Yoon",
-        "authorUrl": "https://dribbble.com/miniY"
-      },
-      {
-        "name": "For Designers",
-        "source": "FD",
-        "extension": "png",
-        "count": 41,
-        "author": "Minhee Yoon",
-        "authorUrl": "https://dribbble.com/miniY"
-      },
-      {
-        "name": "Minimal Notion Icons Colored",
-        "source": "MNIC",
-        "extension": "png",
-        "count": 214,
-        "author": "Minimal Notion Icons",
-        "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
-      },
-      {
-        "name": "Minimal Notion Icons Monochromatic",
-        "source": "MNIM",
-        "extension": "png",
-        "count": 214,
-        "author": "Minimal Notion Icons",
-        "authorUrl": "https://www.notion.so/Minimal-Notion-Icons-a6735b20d07a4ed5a04ef2538170f423"
-      }
+    }
   ]
 }
