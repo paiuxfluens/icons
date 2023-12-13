@@ -1,35 +1,56 @@
 {
   "icons": [
     {
+      "name": "Icons8 Fluent",
+      "sourceUrl": "https://img.icons8.com/fluent/280/000000/",
+      "source": [
+        "source-code",
+        "forward",
+        "fire-element"
+      ],
+      "extension": "png"
+    },
+    {
+      "name": "Icons8 Mix",
+      "source": [
+        "https://img.icons8.com/ios/280/000000/source-code.png",
+        "https://img.icons8.com/material/280/000000/forward.png",
+        "https://img.icons8.com/color/280/000000/fire-element.png"
+      ]
+    },
+    {
       "name": "detailed lineal color",
-      "source": "DLC_",
+      "sourceUrl": "https://raw.githubusercontent.com/paiuxfluens/icons/px-personal/DLC/",
+      "source": "DLC",
       "extension": "png",
-      "count": 7,
-      "author": "Freepik",
+      "count": 6,
       "authorURL": "https://www.flaticon.com/authors/detailed-color/lineal-color/" 
     },
     
     {
       "name": "kawaii lineal color",
-      "source": "KLC_",
+      "sourceUrl": "https://raw.githubusercontent.com/paiuxfluens/icons/px-personal/KLC/",
+      "source": "KLC",
       "extension": "png",
-      "count": 38,
+      "count": 39,
       "author": "Freepik",
       "authorURL": "https://www.flaticon.com/authors/kawaii/lineal-color/"
     },
 
     {
       "name": "lineal outline pink",
-      "source": "LOP_",
+      "sourceUrl": "https://raw.githubusercontent.com/paiuxfluens/icons/px-personal/LOP/",
+      "source": "LOP",
       "extension": "png",
-      "count": 10,
+      "count": 9,
       "author": "Freepik",
       "authorURL": "https://www.flaticon.com/authors/freepik"
     },
 
     {
       "name": "special lineal color",
-      "source": "SLC_",
+      "sourceUrl": "https://raw.githubusercontent.com/paiuxfluens/icons/px-personal/SLC/",
+      "source": "SLC",
       "extension": "png",
       "count": 16,
       "author": "Freepik",
